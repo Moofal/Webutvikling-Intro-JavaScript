@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+#main {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+#users {
+  width: 100%;
+  gap: .5rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+#users li {
+  border: 1px solid #ccc;
+  justify-content: space-between;
+  margin: 0;
+  padding: 1rem;
+  list-style: none;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */

@@ -1,0 +1,14 @@
+ul, li {
+    list-style-type: none;
+    margin: 1px;
+    padding: 0;
+}
+input {
+    width: 30px;
+}
+#numbers {
+    font-size: large;
+}
+#flexbox {
+    display: flex;
+}
